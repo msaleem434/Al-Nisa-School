@@ -1,0 +1,82 @@
+
+
+.one{
+
+	text-align:center;
+	width:40%;
+	margin:auto;
+border: groove;
+margin-top:5%;
+}
+
+
+.three{
+border: groove;
+width:24.99%;
+height:500px;	
+border-right: none;	
+	float:left;
+	
+
+
+}
+.four{
+	border: groove;
+	width:74.99%;
+	height:35px;
+	margin-top:11%;
+	margin-left:10%;
+	border-radius:10px;
+	
+	float:left;
+	
+}
+.five{
+	border: groove;
+	border-left: none;
+	width:73.8%;
+	height:500px;
+	margin:auto;
+	
+
+	float:left;
+}
+.six{
+	border: groove;
+	width:74.99%;
+	height:35px;
+	margin-top:8%;
+	margin-left:10%;
+	border-radius:10px;
+	
+	float:left;
+	
+}
+
+.seven{
+
+	width:74.99%;
+	height:35px;
+	margin-top:12%;
+	margin-left:10%;
+	
+	
+	float:left;
+	
+}
+
+.eight{
+margin-left:23%;
+
+	width:44.99%;
+	height:35px;
+margin-top:8%;
+	
+	border-radius:10px;
+	
+	float:left;
+	text-align:center;
+}
+.nine{
+magin-top:0.99;
+}
